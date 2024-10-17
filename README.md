@@ -128,7 +128,7 @@ A curated list of awesome CAE frameworks, libraries, and software from a full CA
 
 | Tool Name | Language | Open Source/Commercial | Description |
 | --------- | -------- | ---------------------- | ----------- |
-| CAE Simulation Expert | Natural | ChatGPT Plus | Expert in CAE simulations, providing detailed, technically accurate responses. |
+| [CAE Simulation Expert](https://chatgpt.com/g/g-BLkzsyrRZ-cae-simulation-expert-ansys-fluent-ls-dyna-abaqus) | Natural | ChatGPT Plus | Expert in CAE simulations, providing detailed, technically accurate responses. |
 
 ---
 
