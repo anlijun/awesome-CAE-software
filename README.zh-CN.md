@@ -1,3 +1,7 @@
+# 语言
+- [English](./README.md)
+- [简体中文](./README.zh-CN.md)
+
 # 优秀的CAE软件——从CAD到AI
 
 从完整的CAE工作流程角度，精心整理了一系列优秀的CAE框架、库和软件，包括AI技术的集成。
