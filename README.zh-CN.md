@@ -41,9 +41,7 @@
 | [Netgen](https://github.com/NGSolve/netgen) | C++ | 开源 | NETGEN 是一个自动3D四面体网格生成器，支持CSG、BRep（STL）输入，并处理IGES和STEP文件，提供网格优化和分层细化模块。 |
 | [pygmsh](https://github.com/nschloe/pygmsh) | Python | 开源 | pygmsh 将Gmsh的强大功能与Python的多功能性结合在一起。它提供了Gmsh自己的Python接口的有用抽象，使您可以更轻松地创建复杂的几何体。 |
 | [pymesh](http://pymesh.readthedocs.io/en/latest) | Python | 开源 | PyMesh 是一个用于快速原型设计的几何处理平台，集成了各种网格处理功能，并与顶级开源软件包接口，支持网格读写、本地网格处理、网格布尔运算、网格生成以及有限元矩阵组装等操作。 |
-| [Robust-Hexahedral-Re-Meshing](https://github.com/gaoxifeng/Robust-Hexahedral-Re-Meshing) | Windows, Mac, Linux | 开源 | 该仓库包含
-
-了用于强健六面体重新网格划分的网格软件，展示于Xifeng Gao等人在ACM Transactions on Graphics (SIGGRAPH ASIA 2017)发表的论文中。 |
+| [Robust-Hexahedral-Re-Meshing](https://github.com/gaoxifeng/Robust-Hexahedral-Re-Meshing) | Windows, Mac, Linux | 开源 | 该仓库包含了用于强健六面体重新网格划分的网格软件，展示于Xifeng Gao等人在ACM Transactions on Graphics (SIGGRAPH ASIA 2017)发表的论文中。 |
 | [smesh](https://github.com/tpaviot/smesh) | C++ | 开源 | smesh 是一个基于OpenCascade的独立网格框架，分支自SALOME SMESH项目，专为pythonocc项目设计。它基于Fotis Soutis的原始SALOME项目，提供独立的网格功能。 |
 | [TetGen Python](https://github.com/pyvista/tetgen) | Python/C++ | 开源 | 一个 [TetGen](https://github.com/ufz/tetgen) 库的Python接口，用于生成任何3D多面体域的四面体网格。 |
 
