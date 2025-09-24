@@ -115,7 +115,7 @@
 | [pyNastran](https://github.com/SteveDoyle2/pyNastran) | Python | 开源 | pyNastran是各种Nastran文件格式（BDF、OP2、OP4）的接口库。使用BDF接口，您可以在不担心字段格式的情况下读取、编辑和写入Nastran几何体。还执行了许多检查以验证模型的正确性。使用OP2接口，您可以快速高效地读取大文件的结果，并提取结果数据子集，生成OP2/F06结果文件。 |
 | [Simright Viewer](https://www.simright.com/apps/simright-viewer) | Web | 商业 | 基于网页的CAD/CAE模型查看器，用于创建和分享3D快照。 |
 | [Tecplot 360](https://tecplot.com/products/tecplot-360/) | C++ | Commercial | Tecplot 360是一款功能强大的数据可视化和分析软件，专为计算流体动力学（CFD）和数值模拟结果而设计。 |
-| [TecIO库](https://tecplot.com/products/tecio-library/) | C++ | Commercial | TecIO 是 Tecplot 的 I/O 库，可以读取、写入和交换 Tecplot 文件格式的数据，从而与模拟代码无缝集成。 代码: https://github.com/search?q=tecio&type=repositories |
+| [TecIO库](https://tecplot.com/products/tecio-library/) | C++ | Commercial | TecIO 是 Tecplot 的 I/O 库，可以读取、写入和交换 Tecplot .plt/.szplt文件格式的数据，从而与模拟代码无缝集成。 代码: https://github.com/search?q=tecio&type=repositories |
 ---
 
 # 优化
