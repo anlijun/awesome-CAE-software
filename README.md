@@ -116,7 +116,8 @@ A curated list of awesome CAE frameworks, libraries, and software from a full CA
 | [PyQus](https://github.com/JorgeDeLosSantos/pyqus) | Python | Open Source | Python codes for post-processing Abaqus ODB files. |
 | [pyNastran](https://github.com/SteveDoyle2/pyNastran) | Python | Open Source | pyNastran is an interface library to the various Nastran file formats (BDF, OP2, OP4). Using the BDF interface, you can read/edit/write Nastran geometry without worrying about field formatting. Many checks are also performed to verify that your model is correct. Using the OP2 interface, you can read large result files quickly and efficiently. Additionally, you can also extract a subset of the result data and write OP2/F06 result files. |
 | [Simright Viewer](https://www.simright.com/apps/simright-viewer) | Web | Commercial | Web-based viewer for CAD/CAE models, used to create and share 3D snapshots. |
-
+| [Tecplot 360](https://tecplot.com/products/tecplot-360/) | C++ | Commercial | Tecplot 360 is a powerful data visualization and analysis software designed for computational fluid dynamics (CFD) and numerical simulation results. |
+| [TecIO Library](https://tecplot.com/products/tecio-library/) | C++ | Commercial | TecIO is Tecplot’s I/O library that enables reading, writing, and exchanging data in Tecplot file formats for seamless integration with simulation codes. Code: https://github.com/search?q=tecio&type=repositories |
 ---
 
 # Optimization
