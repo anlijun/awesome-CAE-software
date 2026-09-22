@@ -142,6 +142,7 @@ A curated list of awesome CAE frameworks, libraries, and software from a full CA
 | Tool Name | Language | Open Source/Commercial | Description |
 | --------- | -------- | ---------------------- | ----------- |
 | [CAE Simulation Expert](https://chatgpt.com/g/g-BLkzsyrRZ-cae-simulation-expert-ansys-fluent-ls-dyna-abaqus) | Natural | ChatGPT Plus | Expert in CAE simulations, providing detailed, technically accurate responses. |
+| [AgentFEM](https://github.com/haoming-luo/agentfem) | Python | Open Source | AI-native finite-element platform for structural and thermal analysis. Provides Python, CLI, and MCP-accessible workflows for AI-assisted simulation, parameter studies, and training-data generation. |
 
 ---
 

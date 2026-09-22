@@ -140,6 +140,7 @@
 | Tool Name | 编程语言 | 开源/商业 | 描述 |
 | --------- | -------- | ---------------------- | ----------- |
 | [CAE Simulation Expert](https://chatgpt.com/g/g-BLkzsyrRZ-cae-simulation-expert-ansys-fluent-ls-dyna-abaqus) | 自然语言 | ChatGPT Plus | CAE仿真专家，提供详细的技术性回答。 |
+| [AgentFEM](https://github.com/haoming-luo/agentfem) | Python | 开源 | 面向结构与热分析的 AI 原生有限元平台，提供 Python、CLI 及 MCP 接入方式，支持 AI 辅助仿真、参数化研究与训练数据生成。 |
 
 ---
 
