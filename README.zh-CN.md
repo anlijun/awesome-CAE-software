@@ -90,6 +90,7 @@
 | [CFDEM](https://github.com/CFDEMproject/CFDEMcoupling-PUBLIC) | C++ | 开源 | 一个开源框架，将计算流体动力学（CFD）与离散元法（DEM）集成，结合了 LIGGGHTS® DEM 代码和 OpenFOAM® CFD 包，用于高级流体颗粒仿真。 |
 | [Code_Aster](https://code-aster.org/spip.php?rubrique21) | Fortran/Python | 开源 | Code_ASTER 是一个开源软件套件，主要用于土木工程和工业领域的结构力学中的有限元分析和数值仿真。 |
 | [deal.II](https://www.dealii.org/) | C++ | 开源 | 一个支持创建有限元代码的 C++ 软件库，拥有一个开放的用户和开发者社区。 |
+| [Engineering on Web FEA](https://engineeringonweb.com/fea/?lang=zh) | Web | 商业 | 免费的浏览器端有限元求解器（WebAssembly，支持 WebGPU 加速并可回退到 CPU），可求解 2D 和 3D 结构、热、流体和电磁问题，包括多物理场耦合。无需安装，无需注册账号。 |
 | [FEATool Multiphysics](https://github.com/precise-simulation/featool-multiphysics) | Matlab | 开源 | FEATool Multiphysics 是一个集成的多物理分析仿真平台，提供易用的图形界面和用于 1D、2D 和 3D 几何建模、自动网格划分、物理求解器以及多种预定义物理方程的集成工具。 |
 | [FEBio](https://github.com/febiosoftware/FEBio) | C++ | 开源 | FEBio 是一个专为生物力学应用设计的开源非线性有限元求解器，提供专门的建模场景、本构模型和边界条件，用于解决计算生物力学中的复杂 3D 问题。 |
 | [FEniCS](https://fenicsproject.org/) | C++ | 开源 | FEniCS 是一个用于高效解决偏微分方程（PDE）的开源计算平台，采用有限元方法（FEM），提供高层次的 Python 和 C++ 接口，支持从笔记本电脑到高性能计算系统的广泛平台。 |
