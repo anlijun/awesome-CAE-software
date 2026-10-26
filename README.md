@@ -143,6 +143,7 @@ A curated list of awesome CAE frameworks, libraries, and software from a full CA
 | --------- | -------- | ---------------------- | ----------- |
 | [CAE Simulation Expert](https://chatgpt.com/g/g-BLkzsyrRZ-cae-simulation-expert-ansys-fluent-ls-dyna-abaqus) | Natural | ChatGPT Plus | Expert in CAE simulations, providing detailed, technically accurate responses. |
 | [AgentFEM](https://github.com/haoming-luo/agentfem) | Python | Open Source | AI-native finite-element platform for structural and thermal analysis. Provides Python, CLI, and MCP-accessible workflows for AI-assisted simulation, parameter studies, and training-data generation. |
+| [NovaSolver Studio](https://github.com/novasolver/novasolver-studio) | Python | Open Source | Desktop CAE app for Windows with an MCP server: an AI assistant imports STEP/STL parts, sets loads per face, solves structural/thermal FEM (built-in or CalculiX) and CFD (OpenFOAM), and checks mesh convergence before reporting a verified result. |
 
 ---
 
