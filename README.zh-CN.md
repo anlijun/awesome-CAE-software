@@ -141,6 +141,7 @@
 | --------- | -------- | ---------------------- | ----------- |
 | [CAE Simulation Expert](https://chatgpt.com/g/g-BLkzsyrRZ-cae-simulation-expert-ansys-fluent-ls-dyna-abaqus) | 自然语言 | ChatGPT Plus | CAE仿真专家，提供详细的技术性回答。 |
 | [AgentFEM](https://github.com/haoming-luo/agentfem) | Python | 开源 | 面向结构与热分析的 AI 原生有限元平台，提供 Python、CLI 及 MCP 接入方式，支持 AI 辅助仿真、参数化研究与训练数据生成。 |
+| [NovaSolver Studio](https://github.com/novasolver/novasolver-studio) | Python | 开源 | 带 MCP 服务器的 Windows 桌面 CAE 软件：AI 助手可导入 STEP/STL 零件、按面设置载荷，求解结构/热 FEM（内置求解器或 CalculiX）和 CFD（OpenFOAM），并在给出已验证结果前检查网格收敛。 |
 
 ---
 
