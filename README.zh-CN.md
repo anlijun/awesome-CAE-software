@@ -99,6 +99,7 @@
 | [MYSTRAN](https://github.com/MYSTRANsolver/MYSTRAN) | Fortran | 开源 | 对于熟悉 1970 年代 NASA（美国国家航空航天局）开发的流行 NASTRAN 计算程序的人来说，MYSTRAN 的输入格式将非常熟悉。许多为 NASTRAN 模型的结构分析可以在 MYSTRAN 中运行，几乎不需要修改。MYSTRAN 是一个独立的程序，采用现代 Fortran 95 编写。 |
 | [NASTRAN-95](https://github.com/nasa/NASTRAN-95) | Fortran | 开源 | NASTRAN 是 NASA 的结构分析系统，一个于 1970 年代早期完成的有限元分析程序。它是第一款此类软件，开启了计算机辅助工程的大门。 |
 | [Netgen/NGSolve](https://github.com/NGSolve/ngsolve) | C++ | 开源 | Netgen/NGSolve 是一个高性能的多物理有限元软件，广泛用于分析固体力学、流体动力学和电磁学模型。通过其灵活的 Python 接口，可以轻松实现新的物理方程和求解算法。 |
+| [OpenFLUME](https://github.com/OpenFLUME/OpenFLUME) | TypeScript/Python | 开源 | OpenFLUME 是一个有限体积法一维热流体网络求解器（与 GFSSP / SINDA-FLUINT 同类），用于管路-节点系统的稳态和瞬态分析，支持基于 CoolProp 的真实流体、两相均相流（HEM）、流固耦合传热、可压缩流壅塞、反应流和微流控。既可通过浏览器中免安装的可视化编辑器使用，也可作为 TypeScript 库或 Python 包（`pip install openflume`）调用，并已通过解析解、NASA GFSSP / SINDA-FLUINT 基准算例和实验数据进行验证。 |
 | [OpenFoam](https://github.com/OpenFOAM?tab=repositories) | C++ | 开源 | OpenFOAM 是一个免费、开源的计算流体动力学（CFD）软件包，广泛应用于工程和科学领域。OpenFOAM 提供了广泛的功能，用于解决涉及化学反应、湍流和热传递的复杂流体流动问题。 |
 | [pyNastran](https://github.com/SteveDoyle2/pyNastran) | Python | 开源 | pyNastran 是一个用于处理多种 Nastran文件格式（BDF、OP2 和 F06）的 Python 库，提供了在 Nastran 中处理模型、查看文件内容和简化仿真的工具。 |
 
